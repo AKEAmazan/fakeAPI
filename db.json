@@ -1,1 +1,23 @@
 
+{
+  "boutiques": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "nom": "Dagbe Dagbe",
+        "proprietaire": "Kossi Juliano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1900854110717773,
+          6.180278245260716
+        ]
+      }
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
