@@ -13,7 +13,9 @@
       "properties": {
         "id": "1",
         "nom": "Dagbe Dagbe",
-        "proprietaire": "Kossi Juliano"
+        "proprietaire": "Kossi Juliano",
+        "address":"mes adresse",
+        "telephone":"0088255585"
       }
       
     },
@@ -29,7 +31,9 @@
       "properties": {
         "id": "2",
         "nom": "Manu Mava",
-        "proprietaire": "Santrinos Afuto"
+        "proprietaire": "Santrinos Afuto",
+        "address":"Agoe 2 lions adresse",
+        "telephone":"55891444"
       }
       
     },
@@ -45,7 +49,9 @@
       "properties": {
         "id": "3",
         "nom": "Valentinattaire Position",
-        "proprietaire": "Anna Noel"
+        "proprietaire": "Anna Noel",
+        "address":"mes rue sekle",
+        "telephone":"566628"
       }
       
     }
