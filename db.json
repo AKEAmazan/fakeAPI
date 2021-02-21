@@ -30,6 +30,21 @@
           6.191627259167388
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "nom": "Valentinattaire Position",
+        "proprietaire": "Anna Noel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.19582946777344,
+          6.1927259167388
+        ]
+      }
     }
   ]
 }
