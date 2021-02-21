@@ -15,6 +15,21 @@
           6.180278245260716
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "nom": "Manu Mava",
+        "proprietaire": "Santrinos Afuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1911582946777344,
+          6.191627259167388
+        ]
+      }
     }
   ]
 }
