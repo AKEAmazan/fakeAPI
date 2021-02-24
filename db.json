@@ -54,6 +54,414 @@
         "telephone":"566628"
       }
       
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1626274945899315,6.057771358881682"
+      ]
+    },
+    "properties": {
+      "id": 4,
+      "nom": "Voipa",
+      "proprietaire": "Leanna Harrison",
+      "address": "152 Rue  Agbalepedogan, Lomé, Togo, 4527",
+      "telephone": "+228 97651305",
+      "photo": "http://placehold.it/32x32"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0628585343295247,6.142238257077306"
+      ]
+    },
+    "properties": {
+      "id": 14,
+      "nom": "Tourmania",
+      "proprietaire": "Reese Keller",
+      "address": "753 Rue  Avenou, Lomé, Togo, 5029",
+      "telephone": "+228 99647453",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1573902640009244,6.121794055317831"
+      ]
+    },
+    "properties": {
+      "id": 24,
+      "nom": "Orbiflex",
+      "proprietaire": "Sara Alston",
+      "address": "228 Rue  Fransciscain, Lomé, Togo, 8567",
+      "telephone": "+228 97768979",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0282958713455568,6.091049981647898"
+      ]
+    },
+    "properties": {
+      "id": 34,
+      "nom": "Geeky",
+      "proprietaire": "Hilda Soto",
+      "address": "835 Rue  Fransciscain, Lomé, Togo, 6666",
+      "telephone": "+228 97838468",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0252820942426004,6.089010980746294"
+      ]
+    },
+    "properties": {
+      "id": 44,
+      "nom": "Injoy",
+      "proprietaire": "Garrison Dickson",
+      "address": "626 Rue  Agoe, Lomé, Togo, 5154",
+      "telephone": "+228 97951883",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1265512154473245,6.051627837186356"
+      ]
+    },
+    "properties": {
+      "id": 54,
+      "nom": "Plexia",
+      "proprietaire": "Sheppard Ayala",
+      "address": "435 Rue  Fransciscain, Lomé, Togo, 3515",
+      "telephone": "+228 97124082",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0258261032208025,6.076857024328879"
+      ]
+    },
+    "properties": {
+      "id": 64,
+      "nom": "Retrotex",
+      "proprietaire": "Latoya Perry",
+      "address": "487 Rue  Fransciscain, Lomé, Togo, 6820",
+      "telephone": "+228 99454575",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0034876594097222,6.167950773870005"
+      ]
+    },
+    "properties": {
+      "id": 74,
+      "nom": "Inrt",
+      "proprietaire": "Vicki Curry",
+      "address": "519 Rue  Agbalepedogan, Lomé, Togo, 8799",
+      "telephone": "+228 98046185",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.14168295352326,6.171454043818456"
+      ]
+    },
+    "properties": {
+      "id": 84,
+      "nom": "Zolar",
+      "proprietaire": "Lesa Hyde",
+      "address": "394 Rue  Fransciscain, Lomé, Togo, 759",
+      "telephone": "+228 98382760",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1123519116517502,6.16940622010551"
+      ]
+    },
+    "properties": {
+      "id": 94,
+      "nom": "Eternis",
+      "proprietaire": "Booker Fox",
+      "address": "142 Rue  Agoe, Lomé, Togo, 4812",
+      "telephone": "+228 97086648",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1184356751006321,6.077469431681635"
+      ]
+    },
+    "properties": {
+      "id": 104,
+      "nom": "Insurity",
+      "proprietaire": "Ina Foreman",
+      "address": "466 Rue  Fransciscain, Lomé, Togo, 6516",
+      "telephone": "+228 97583794",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0676383459901504,6.104860457746105"
+      ]
+    },
+    "properties": {
+      "id": 114,
+      "nom": "Eplode",
+      "proprietaire": "Hewitt Ellis",
+      "address": "650 Rue  Agbalepedogan, Lomé, Togo, 131",
+      "telephone": "+228 97070126",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1868266844418403,6.108096204322357"
+      ]
+    },
+    "properties": {
+      "id": 124,
+      "nom": "Mediot",
+      "proprietaire": "Dudley Russell",
+      "address": "648 Rue  Fransciscain, Lomé, Togo, 807",
+      "telephone": "+228 99034973",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0966295334269514,6.164279759510716"
+      ]
+    },
+    "properties": {
+      "id": 134,
+      "nom": "Snowpoke",
+      "proprietaire": "Marcy Burch",
+      "address": "837 Rue  Avenou, Lomé, Togo, 3117",
+      "telephone": "+228 98124764",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1310723776123675,6.061558223350936"
+      ]
+    },
+    "properties": {
+      "id": 144,
+      "nom": "Slambda",
+      "proprietaire": "Britney Middleton",
+      "address": "651 Rue  Agbalepedogan, Lomé, Togo, 6829",
+      "telephone": "+228 98907904",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.049103871697155,6.046760947213228"
+      ]
+    },
+    "properties": {
+      "id": 154,
+      "nom": "Gink",
+      "proprietaire": "Suzanne Lott",
+      "address": "671 Rue  Avenou, Lomé, Togo, 2865",
+      "telephone": "+228 98689198",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0446046223007772,6.07703689489594"
+      ]
+    },
+    "properties": {
+      "id": 164,
+      "nom": "Quarmony",
+      "proprietaire": "Brandi Farley",
+      "address": "607 Rue  Agbalepedogan, Lomé, Togo, 1222",
+      "telephone": "+228 98368991",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1302539492812793,6.110643097320378"
+      ]
+    },
+    "properties": {
+      "id": 174,
+      "nom": "Centree",
+      "proprietaire": "Wilda Woodard",
+      "address": "204 Rue  Agbalepedogan, Lomé, Togo, 3056",
+      "telephone": "+228 98065109",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.069773070437484,6.148976460584492"
+      ]
+    },
+    "properties": {
+      "id": 184,
+      "nom": "Valpreal",
+      "proprietaire": "Mccoy Stanley",
+      "address": "320 Rue  Agoe, Lomé, Togo, 1676",
+      "telephone": "+228 97405420",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0362003097797052,6.168413998441961"
+      ]
+    },
+    "properties": {
+      "id": 194,
+      "nom": "Enjola",
+      "proprietaire": "Cain Christian",
+      "address": "895 Rue  Fransciscain, Lomé, Togo, 8923",
+      "telephone": "+228 99221278",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0906743686920577,6.088783625109174"
+      ]
+    },
+    "properties": {
+      "id": 204,
+      "nom": "Isoplex",
+      "proprietaire": "Graciela Pugh",
+      "address": "586 Rue  Avenou, Lomé, Togo, 2039",
+      "telephone": "+228 97955278",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.1520083011813274,6.050487873565188"
+      ]
+    },
+    "properties": {
+      "id": 214,
+      "nom": "Pivitol",
+      "proprietaire": "Patton Lloyd",
+      "address": "112 Rue  Avenou, Lomé, Togo, 8960",
+      "telephone": "+228 98243571",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.103466901564253,6.125455113701985"
+      ]
+    },
+    "properties": {
+      "id": 224,
+      "nom": "Enersave",
+      "proprietaire": "Cabrera Jimenez",
+      "address": "334 Rue  Agoe, Lomé, Togo, 220",
+      "telephone": "+228 98890531",
+      "photo": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "1.0936536537475297,6.162172086962809"
+      ]
+    },
+    "properties": {
+      "id": 234,
+      "nom": "Vixo",
+      "proprietaire": "Bryant Wilcox",
+      "address": "206 Rue  Agbalepedogan, Lomé, Togo, 2512",
+      "telephone": "+228 97115636",
+      "photo": "http://placehold.it/32x32"
+    }
+  }
   ]
 }
